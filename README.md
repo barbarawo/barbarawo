@@ -32,5 +32,9 @@ Sou graduada em Direito e estudante de Análise e Desenvolvimento de Sistemas. B
 ) ![Adaptavel](https://img.shields.io/badge/Adaptavel-red) ![Organizada](https://img.shields.io/badge/Organizada-purple
 ) ![Comprometida](https://img.shields.io/badge/Comprometida-orange) ![Produtiva](https://img.shields.io/badge/Produtiva-emerald)
 
+## Bootcamps e cursos
+<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" height="50"></a>
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barbarawo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
