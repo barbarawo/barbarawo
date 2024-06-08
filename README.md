@@ -1,7 +1,7 @@
 # Bárbara Wiethorn de Oliveira
 
 Olá! Meu nome é Bárbara.
-Sou graduada em Direito e estudante de Análise e Desenvolvimento de Sistemas. Busco constante aprendizado visando aprimorar minhas habilidades.
+Sou graduada em Direito e estudante de Análise e Desenvolvimento de Sistemas. Bem-vindo ao meu portfólio de projetos no Github.
 
 ## Conecte-se comigo
 
